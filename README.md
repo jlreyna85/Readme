@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Develop app with flutter<br>👯 I’m looking to collaborate on Flutter<br>🌱 I’m currently learning Flutter<br>
-
+[![](https://visitcount.itsvg.in/api?id=jlreyna85&icon=0&color=3)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/firg28) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/firg28) 
@@ -12,10 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jlreyna85&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jlreyna85&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-[![](https://visitcount.itsvg.in/api?id=jlreyna85&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
